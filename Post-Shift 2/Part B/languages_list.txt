@@ -1,0 +1,16 @@
+EN
+FR
+DE
+IT
+ES
+PT
+PL
+RU
+UA
+TR
+JP
+KO
+CN
+TW
+VI
+ID
